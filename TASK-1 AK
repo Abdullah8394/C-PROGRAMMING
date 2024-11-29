@@ -1,0 +1,21 @@
+/*
+    Exp-1 TASK-1 
+    Title: WAP to print your name, age, class, division and UIN on the screen. Use escape sequences to properly format the output.
+    Name: KHAN ABDULLA ABDUL REHMAN
+    Class & Div: FE & E
+    UIN: 241S055
+*/
+
+
+
+#include <stdio.h>
+Int main()
+{
+   printf("Name = Jamadar Bashir Ahmed Atikurrehman \n");
+   printf("Age = 19 \n");
+   printf("UIN = 241S010 \n");
+   printf("Branch = ECS \n");
+   return 0;
+}
+
+
