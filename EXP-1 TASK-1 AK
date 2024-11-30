@@ -16,7 +16,7 @@ int main()
    return 0;
 }
 
-/*    OUTPUT
+/*    **OUTPUT**
 Name = KHAN ABDULLA ABDUL REHMAN
 Age = 20
 UIN = 241S055
