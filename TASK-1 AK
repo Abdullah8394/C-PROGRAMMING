@@ -7,7 +7,7 @@
 */
 
 #include <stdio.h>
-Int main()
+int main()
 {
    printf("Name = KHAN ABDULLA ABDUL REHMAN \n");
    printf("Age = 20 \n");
@@ -16,4 +16,10 @@ Int main()
    return 0;
 }
 
+/*    OUTPUT
+Name = KHAN ABDULLA ABDUL REHMAN
+Age = 20
+UIN = 241S055
+Branch = ECS
+*/
 
