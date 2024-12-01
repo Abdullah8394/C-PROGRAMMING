@@ -1,5 +1,5 @@
 /*
-    EXP No.10 : TASK-1
+    EXP No.10 : TASK-2
     Title: WAP to print the elements of an array in reverse order using pointers
     Name: KHAN ABDULLA ABDUL REHMAN
     Class & Div: FE & E
